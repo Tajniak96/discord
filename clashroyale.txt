@@ -14,7 +14,7 @@ What is the max level of Rare Cards?`11`eleven
 What is the max level of Epic Cards?`8`eight
 What is the max level of Legendary cards?`5`five`you can't afford it
 How to be the #1 global?`Win trade a lot`wintrade`wintrading`Win trading`gem`spend money`be a P2W
-What is The Log's favourite song?`They see me rollin'`they see me rollin`rollin
+What is The Log's favourite song?`They see me rollin'`they see me rollin`rollin`rollin'
 Annnnnd...?`Fireball!`fireball
 What does the Lumberjack do at night?`Hunts The Log`hunts`hunts log
 How much Gems does a Wagon of Gold cost?`4500`4 500`4,500`4.500`4.5k`4,5k`4'500
@@ -23,15 +23,15 @@ How much gems does a Pouch of Gold cost?`60
 How much gold does a Pouch of Gold contain?`1000`1k`1,000`1.000`1 000`1'000
 How much Gold does a Bucket of Gold contain?`10000`10 000`10k`10.000`10,000`10'000
 How much Gold does a Wagon of Gold contain?`100 000`100000`100k`100'000`100,000`100.000
-How about...?`no`No
+At which Arena can you unlock X-Bow?`3`Arena 3`Barbarian Bowl
 What is the most known victim of Clash Royale?`Clash of Clans`CoC`clashofclans
 What does the Bowler like the most?`Dark Elixir drinks`throwing rocks`dark elixir
 What is the motto of the Ice Spirit?`Stay frosty
 Disrespecting the Three Musketeers is a...?`mistake`cardinal sin
-Where is the 4th Skeleton?`in the army`In the army`In the army now
+Where is the 4th Skeleton?`in the army`In the army`In the army now`skeleton army`skarmy
 What is the best source of salt in Clash Royale?`Royal Giant`rg`RG`X-Bow`xbow`Mortar`mortar`Payfecta`payfecta`Miner`miner
 What is The Log seeking for?`Revenge`revenge
-Who designed this trivia?`@Tajniak
+Who designed this trivia?`Tajniak
 Miner doesn't use magic,but a...?`Shovel`shovel
 At which Arena can you unlock Balloon?`2`Arena 2`Bone Pit
 At which Arena can you unlock Valkyrie?`1`Arena 1`Goblin Stadium
@@ -43,7 +43,7 @@ At which Arena can you unlock Ice Spirit?`8`Arena 8`Frozen Peak
 At which Arena can you unlock Hog Rider?`4`Arena 4`P.E.K.K.A's Playhouse
 At which Arena can you unlock Rocket?`3`Arena 3`Barbarian Bowl
 At which Arena can you unlock Fire Spirits?`5`Arena 5`Spell Valley
-How many trophies do you need to get into Training Camp?`none`no`wtf`you cant
+How many trophies do you need to get into Training Camp?`none`no`wtf`you cant`0
 How many trophies do you need to get into Goblin Stadium?`0
 How many trophies do you need to get into Bone Pit?`400
 How many trophies do you need to get into Barbarian Bowl?`800
@@ -57,7 +57,7 @@ Which Legendary card is unlocked at Frozen Peak?`Lumberjack`lj
 Which Legendary card is unlocked at P.E.K.K.A's Playhouse?`Lava Hound`lavahound`lh
 Which Legendary card is unlocked at Spell Valley?`Ice Wizard`icewiz`ice wiz`iw`icewizard
 Which Legendary card is unlocked at Royal Arena?`Princess
-Which Legendary card is unlocked at Builder's Workshop?`Sparky`Miner`The Log`log
+Name one Legendary card that is unlocked at Builder's Workshop.`Sparky`Miner`The Log`log
 What is the Furnace's specialty?`Pancakes`pancake
 What is the Royal Giant's passion?`his beard`beard
 What is adorable, but on fire?`Fire Spirits`firespirits`fs
@@ -73,8 +73,8 @@ What makes everyone say "Chaaaarge!"`Rage Spell`Rage
 What appreciates your tower?`X-bow`xbow
 "Roses are red, ....... are blue, they can fly, and will crush you!" Who is this about?`Minions`minion`3 minions`three minions
 A pile of bones?`Skeletons`skellies`skeleton`skelly
-What is creepy?`Tombstone
-What deals damage to dumb troops?`Bomb Tower
+What is the creepiest building according to its descripton?`Tombstone`tomb`tombst`tmbstne`tstone
+At which Arena can you unlock Furnace?`5`Arena 5`Spell Valley
 Where you shouldn't look inside?`Goblin Hut`gob hut
 Who shouldn't have been taught?`Spear Goblins`spear gobs
 Who's a one-man wrecking crew?`Giant
