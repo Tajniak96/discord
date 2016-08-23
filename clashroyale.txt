@@ -61,7 +61,7 @@ Name one Legendary card that is unlocked at Builder's Workshop.`Sparky`Miner`The
 What is the Furnace's specialty?`Pancakes`pancake
 What is the Royal Giant's passion?`his beard`beard
 What is adorable, but on fire?`Fire Spirits`firespirits`fs
-What's too hot for TV?`Ice wizard's mustache`iwmustache`ice wiz mustache
+What's too hot for TV?`Ice wizard's mustache`iwmustache`ice wiz mustache`handlebar mustache`ice wizard
 The Wizard will blow you away with his...?`handsomeness`fireball
 What's the only thing in the game that isn't affected by Poison?`The grass`grass
 Who's a majestic flying beast?`Lava Hound`lavahound`lh
@@ -87,7 +87,7 @@ Larry, Harry, Terry, Mary, Leedoot and friends together make a...?`Skeleton Army
 Who has a coil of iron and wheels of wood?`Sparky 
 Who's stunning?`Princess
 Who carries around a drink on the Arena?`Lumberjack`lj
-Why is it bad for you if you feel warm feelings towards the Princess?`Because you're probably on fire!`cuz ur on fire`because your probably on fire
+Why is it bad for you if you feel warm feelings towards the Princess?`Because you're probably on fire!`cuz ur on fire`because your probably on fire`You are on fire`you are probably on fire
 How many different cards is available in shop on Sunday?`6`six
 How much gold does the 2nd Legendary cost in the shop?`80000`80k`80,000`80'000`80.000`80 000
 How many Gems does a Wagon contain?`6500`6,500`6'500`6.500`6.5k
