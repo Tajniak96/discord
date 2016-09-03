@@ -3,11 +3,11 @@ How much money does it cost to max out?`A small loan of a million dollars
 How many cards does the 1st place in the biggest tournament get?`15000`15 000`15k`15,000`15.000`15'000
 Who shoots destructo beams?`Witch
 Who doesn't know what "Overkill" means?`Sparky
-What is the best clan in the game?`Dragons Eight`Dragons Eight 2`D8`D8 2
+How many trophies are top players reset to on Season Reset?
 What is the best distraction for the Mini P.E.K.K.A?`A Butterfly`Butterfly
 How much damage does a tournament level Freeze deal?`0`none
 What does the hog say?`Hog Riderrrrr`Hog Rider`Hog Ridah`Hog Riderr
-Who are the Guards without their shields?`Three ruthless bone brothers
+Who are the Guards without their shields?`Three ruthless bone brothers`skeletons`skellies`larrys`doots`doot`larry
 What is the max level of the King?`13`thirteen
 What is the max level of Common Cards?`13`thirteen
 What is the max level of Rare Cards?`11`eleven
@@ -96,5 +96,5 @@ How many gems does it cost to create the largest tournament?`250000`250'000`250 
 How many cards are you rewarded for winning a 500 player tournament?`1200`1 200`1,200`1'200`1.200`1.2k
 How many cards are you rewarded for winning a 200 player tournament?`120
 How long is Overtime in tournaments?`3 minutes`3min`3mins`3 mins
-When do you have less that 8 cards in your deck?`In tutorial`tutorial`training camp
+When do you have less that 8 cards in your deck?`In tutorial`tutorial`training camp`training
 How many questions does this trivia have?`100`a hundred
