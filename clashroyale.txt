@@ -76,7 +76,7 @@ A pile of bones?`Skeletons`skellies`skeleton`skelly
 What is the creepiest building according to its descripton?`Tombstone`tomb`tombst`tmbstne`tstone
 At which Arena can you unlock Furnace?`5`Arena 5`Spell Valley
 Where you shouldn't look inside?`Goblin Hut`gob hut
-At which Arena do you get a chance for Legaendary cards to appear in the shop?`Legendary Arena`Legendary`Legend`A9`9`Arena 9
+At which Arena do you get a chance for Legendary cards to appear in the shop?`Legendary Arena`Legendary`Legend`A9`9`Arena 9
 Who's a one-man wrecking crew?`Giant
 Who's born ready for a barbeque?`Baby Dragon`baby drag
 Who has delicately coiffed hair?`Musketeer`musket`musky`musket`musk
