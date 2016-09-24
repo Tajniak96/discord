@@ -1,6 +1,6 @@
 What is the name of the first Arena?`Training Camp
 How much money does it cost to max out?`A small loan of a million dollars
-How many cards does the 1st place in the biggest tournament get?`15000`15 000`15k`15,000`15.000`15'000
+How many cards do you get for taking the 1st place in the largest tournament?`2000`2,000`2k`2'000`2.000`2 000
 Who shoots destructo beams?`Witch
 Who doesn't know what "Overkill" means?`Sparky
 How many trophies are top players reset to on Season Reset?
@@ -92,9 +92,9 @@ How many different cards are available in shop on Sunday?`6`six
 How much gold does the 2nd Legendary cost in the shop?`80000`80k`80,000`80'000`80.000`80 000
 How many Gems does a Wagon contain?`6500`6,500`6'500`6.500`6.5k
 Who sounds like he has a bucket on his head?`Dark Prince`dp`darkp`dark p
-How many gems does it cost to create the largest tournament?`250000`250'000`250 000`250.000`250,000`too much
-How many cards are you rewarded for winning a 500 player tournament?`1200`1 200`1,200`1'200`1.200`1.2k
-How many cards are you rewarded for winning a 200 player tournament?`120
+How many gems does it cost to create the largest tournament?`10000`10 000`10.000`10,000`10'000`10k
+How many cards are you rewarded for winning a 100 player tournament?`100
+How many cards are you rewarded for winning a 200 player tournament?`400
 How long is Overtime in tournaments?`3 minutes`3min`3mins`3 mins
 When do you have less that 8 cards in your deck?`In tutorial`tutorial`training camp`training
 How many questions does this trivia have?`100`a hundred
